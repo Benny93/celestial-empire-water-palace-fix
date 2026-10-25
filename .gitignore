@@ -1,0 +1,12 @@
+# Never publish private saves, backups, decompressed city data, or reports.
+*.sav
+*.bak
+*.bin
+*.report.json
+*.validation.json
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
